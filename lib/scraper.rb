@@ -43,4 +43,4 @@ class Scraper
   end
 end
 
-Scraper.newprint_courses
+Scraper.new.print_courses
