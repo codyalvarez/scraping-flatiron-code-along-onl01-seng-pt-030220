@@ -42,3 +42,5 @@ class Scraper
     end
   end
 end
+
+Scraper.newprint_courses
